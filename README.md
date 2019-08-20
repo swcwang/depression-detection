@@ -2,6 +2,7 @@
 Depression Detection using Twitter data
 
 1. [Project Motivation](#motivation)
+2. [Proposed Model](Proposed Model)
 2. [Dataset Construction](#dataset)
 3. [Project Phases](#phases)
 4. [Installation](#installation)
@@ -25,7 +26,7 @@ This offers an opportunity for emotional detection of users based on their tweet
 
 We also aim to provide a dataset that is specifically designed for depression identification based on tweets. Our research so far shows such data is not readily available, and proves to be a major stumbling block in the development of this project.
 
-### Concept
+## Proposed Model <a name=Proposed Model"></a>
 
 Our depression detector can be incorporated into existing products such as GBoard on Android, the Google Keyboard, which uses federated learning to improve the user experience based on their search history . As GBoard already collects user history, it is conceivable it can be extended to incorporate our model and identify instances of depression, especially based on user´s textual input over a period of time.
 
