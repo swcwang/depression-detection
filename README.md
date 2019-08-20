@@ -99,6 +99,8 @@ Marwa Qabeel | @Marwa
 
 ## Resources<a name="resources"></a>
 - Anne Bonner's Medium article [You Are What You Tweet](https://towardsdatascience.com/you-are-what-you-tweet-7e23fb84f4ed).
+- [Sentiment Analysis — TorchText](https://medium.com/@sonicboom8/sentiment-analysis-torchtext-55fb57b1fab8)
+- Pranjal Chaubey repo [Sixty AI](https://github.com/pranjalchaubey/Sixty-AI)
 
 
 
