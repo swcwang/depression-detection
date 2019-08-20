@@ -24,16 +24,14 @@ Depression Detection using Twitter data
 
 ## Contributors<a name="contributors"></a>
 
-/***
-|    __Contributor__     |  __Slack Handle__ |
-|------------------------|-----------------  |
-| Susan Wang             | @SusanW           |
-| Labiba Kanij Rupty     | @Labiba           | 
-| Mahfuza Humayra Mohona | @Mohona           |
-| Aarthi Alagammai       | @Aarthi Alagammai | 
-| Munira Omar            | @Munira Omar      |
-| Marwa Qabeel           | @Marwa            | 
-***/
+Contributor | Slack Handle
+------------ | -------------
+Susan Wang | @SusanW
+Labiba Kanij Rupty | @Labiba 
+Mahfuza Humayra Mohona | @Mohona 
+Aarthi Alagammai | @Aarthi Alagammai
+Munira Omar | @Munira Omar
+Marwa Qabeel | @Marwa
 
 ## Recources<a name="recources"></a>
 
