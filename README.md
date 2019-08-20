@@ -84,6 +84,17 @@ Even though the dataset creation took a lot of time and effort, we believe that 
 
 ## Files Description<a name="files"></a>
 
+## Contributors<a name="contributors"></a>
+
+Contributor | Slack Handle
+------------ | -------------
+Susan Wang | @SusanW
+Labiba Kanij Rupty | @Labiba 
+Mahfuza Humayra Mohona | @Mohona 
+Aarthi Alagammai | @Aarthi Alagammai
+Munira Omar | @Munira Omar
+Marwa Qabeel | @Marwa
+
 ## Recources<a name="recources"></a>
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
