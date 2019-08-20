@@ -95,6 +95,8 @@ Aarthi Alagammai | @Aarthi Alagammai
 Munira Omar | @Munira Omar
 Marwa Qabeel | @Marwa
 
+![Team depression-detection](https://user-images.githubusercontent.com/14244685/63355476-00543d00-c388-11e9-961c-71f4bc01162b.png)
+
 ## Recources<a name="recources"></a>
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
