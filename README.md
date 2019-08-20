@@ -98,6 +98,9 @@ Marwa Qabeel | @Marwa
 ![Team depression-detection](https://user-images.githubusercontent.com/14244685/63355476-00543d00-c388-11e9-961c-71f4bc01162b.png)
 
 ## Resources<a name="resources"></a>
+- Anne Bonner's Medium article [You Are What You Tweet](https://towardsdatascience.com/you-are-what-you-tweet-7e23fb84f4ed).
+
+
 
 ## Acknowledgements<a name="acknowledgements"></a>
 
