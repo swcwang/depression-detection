@@ -10,11 +10,8 @@ Depression Detection using Twitter data
 6. [Future Plan](#futureplan)
 7. [Contributors](#contributors)
 8. [Recources](#recources)
-9. [Acknowledgements](#licensing)
 
 
-
-## Introduction <a name="introduction"></a>
 
 ## Project Motivation <a name="motivation"></a>
 
@@ -41,9 +38,9 @@ We also aim to provide a dataset that is specifically designed for depression id
 
 Dataset construction turned out to be the biggest piece of work in our project.
 
-Initially we used data from an existing github repository (https://github.com/viritaromero/Detecting-Depression-in-Tweets), which has the same purpose of detecting depression in tweets. However, our initial model was able to achieve over 99% accuracy during validation, because the data was too simplistic and most of the labelled depressive entries contain the word **depression**.
+Initially we used data from an existing github repository [Detecting-Depression-in-Tweets](https://github.com/viritaromero/Detecting-Depression-in-Tweets), which has the same purpose of detecting depression in tweets. However, our initial model was able to achieve over 99% accuracy during validation, because the data was too simplistic and most of the labelled depressive entries contain the word **depression**.
 
-So we decided to create our own twitter dataset for depression by using the third party tool, twint (https://github.com/twintproject/twint).
+So we decided to create our own twitter dataset for depression by using the third party tool, [TWINT](https://github.com/twintproject/twint).
 
 
 ### Collecting data   
@@ -135,6 +132,4 @@ Marwa Qabeel | @Marwa
 - Pranjal Chaubey repo [Sixty AI](https://github.com/pranjalchaubey/Sixty-AI)
 
 
-
-## Acknowledgements<a name="acknowledgements"></a>
 
