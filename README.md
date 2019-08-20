@@ -5,11 +5,9 @@ Depression Detection using Twitter data
 2. [Proposed Model](#proposedModel)
 2. [Dataset Construction](#dataset)
 3. [Project Phases](#phases)
-4. [Installation](#installation)
-5. [Files Description](#filesdiscription)
-6. [Future Plan](#futureplan)
-7. [Contributors](#contributors)
-8. [Recources](#recources)
+4. [Future Plan](#futureplan)
+5. [Contributors](#contributors)
+6. [Recources](#recources)
 
 
 
@@ -99,12 +97,6 @@ Even though the dataset creation took a lot of time and effort, we believe that 
 ![negitive words](https://user-images.githubusercontent.com/14244685/63386087-108a0d80-c3c4-11e9-9796-588ce316ed70.png)
 
 
-
-
-
-## Installation<a name="installation"></a>
-
-## Files Description<a name="filesdiscription"></a>
 
 
 ## Future Plan<a name="futureplan"></a>
