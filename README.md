@@ -31,6 +31,8 @@ Our depression detector can be incorporated into existing products such as GBoar
 
 If signs of depression has been detected, then it would be desirable to suggest the user to use a self-care chatbot. (we need to think of a way to do this without infringing on the user's privacy, for example, we do not want to send this diagnosis back to the server in its raw form) Perhaps the suggestion of self-care bot can be an automatic feature that is integrated into GBoard upon depression detection, so that the raw data does not need to go back to the centralised server, and does not require revelation of the user's identity. Here we may implement federated learning along with local differential privacy, to ensure the user~s privacy is protected.
 
+We also aim to provide a dataset that is specifically designed for depression identification based on tweets. Our research so far shows such data is not readily available, and proves to be a major stumbling block in the development of this project.
+
 -- a diagram -- 
 
 
