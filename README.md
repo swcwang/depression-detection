@@ -1,13 +1,13 @@
 # depression-detection-using-twitter-data
 Depression Detection using Twitter data
 
-1. [Introduction](#introduction)
-2. [Project Motivation](#motivation)
-3. [Project Phases](#phases)
-4. [Installation](#installation)
-5. [Files Description](#files)
+1. [Project Motivation](#motivation)
+2. [Project Phases](#phases)
+3. [Installation](#installation)
+4. [Files Description](#files)
+5. [Contributors](#contributors)
 6. [Recources](#recources)
-7. [Licensing, Authors, and Acknowledgements](#licensing)
+7. [Acknowledgements](#licensing)
 
 
 
@@ -26,7 +26,7 @@ We also aim to provide a dataset that is specifically designed for depression id
 
 ## Project Phases <a name="phases"></a>
 
-### 1. Concept
+### - Concept
 
 Our depression detector can be incorporated into existing products such as GBoard on Android, the Google Keyboard, which uses federated learning to improve the user experience based on their search history . As GBoard already collects user history, it is conceivable it can be extended to incorporate our model and identify instances of depression, especially based on user´s textual input over a period of time.
 
@@ -35,7 +35,7 @@ If signs of depression has been detected, then it would be desirable to suggest 
 (perhaps insert diagram representing this, and maybe screenshot or ideas from https://ai.googleblog.com/2017/04/federated-learning-collaborative.html and 
 https://www.healthline.com/health/mental-health/chatbots-reviews#5)
 
-### 2. Dataset Construction
+### - Dataset Construction
 
 Dataset construction turned out to be the biggest piece of work in our project.
 
@@ -99,5 +99,5 @@ Marwa Qabeel | @Marwa
 
 ## Resources<a name="resources"></a>
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Acknowledgements<a name="acknowledgements"></a>
 
