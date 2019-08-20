@@ -6,6 +6,7 @@ Depression Detection using Twitter data
 3. [Project Phases](#phases)
 4. [Installation](#installation)
 5. [Files Description](#files)
+6. [Contributors](#contributors)
 6. [Recources](#recources)
 7. [Licensing, Authors, and Acknowledgements](#licensing)
 
@@ -21,7 +22,23 @@ Depression Detection using Twitter data
 
 ## Files Description<a name="files"></a>
 
+## Contributors<a name="contributors"></a>
+
+/***
+|    __Contributor__     |  __Slack Handle__ |
+|------------------------|-----------------  |
+| Susan Wang             | @SusanW           |
+| Labiba Kanij Rupty     | @Labiba           | 
+| Mahfuza Humayra Mohona | @Mohona           |
+| Aarthi Alagammai       | @Aarthi Alagammai | 
+| Munira Omar            | @Munira Omar      |
+| Marwa Qabeel           | @Marwa            | 
+***/
+
 ## Recources<a name="recources"></a>
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+
+
 
