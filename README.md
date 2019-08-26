@@ -29,7 +29,8 @@ If signs of depression has been detected, then it would be desirable to suggest 
 
 We also aim to provide a dataset that is specifically designed for depression identification based on tweets. Our research so far shows such data is not readily available, and proves to be a major stumbling block in the development of this project.
 
--- a diagram -- 
+
+![diagram](https://user-images.githubusercontent.com/33187812/63684436-30269900-c7fd-11e9-8e9f-4592879bffde.jpg)
 
 
 ##  Dataset Construction <a name="dataset"></a>
